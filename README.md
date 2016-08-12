@@ -1,2 +1,0 @@
-# sampledata
-prototype sample data
